@@ -27,6 +27,27 @@
 #       url: https://github.com/myname/myapp
 #
 # v- Add new projects below this line -v
+  name: Matching Cards Memory Game
+  banner: https://imgur.com/a/pVQbAOv
+  links:
+    - title: Live Page
+      icon: web
+      url: https://melsdesign.github.io/Udacity-Memory-Game-Project/
+    - title: Github Repo
+      icon: github
+      url: https://github.com/melsdesign/Udacity-Memory-Game-Project
+  description: |
+    A classic memory game. Find and match the right cards.
+    Make as less mistakes possible to get a higher ranking
+  author: Melinda Bojte
+  author_location: Larnaca,Cyprus
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/melinda-b-73126a12a/
+    - title: Github Profile
+      icon: github
+      url: https://github.com/melsdesign
 
 - name: Gwent Memory Game
   banner: https://i.imgur.com/wUOfliR.jpg
